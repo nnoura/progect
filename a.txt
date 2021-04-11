@@ -1,0 +1,14 @@
+
+<!DOCTYPhtml>
+<html>
+<body>
+<h1>Pyramids</h1>
+<p><b>The Great Pyramid of Giza of Egypt is a huge pyramid built by the Ancient Egyptians. It stands 18.4 km from Cairo, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain mostly intact. When it was built it was 146.5 metres (481 feet) tall. It was the tallest building in the world for over 3,800 years. Erosion and other causes have shrunk it to 138.8 m. The pyramid was probably built for Khufu, an Egyptian pharaoh. It was perhaps built by Khufu's vizier, Hemiunu.[1] It is believed that it took about 20 years to build, and was completed around 2570 BC</b>.</p>
+<center><img src="lol.jpg" alt="pyramids"></center>
+<p>When it was built, Great Pyramid was covered by white stones that formed a smooth outer surface. Some of these stones can still be seen around the base. Most of what can be seen of the pyramid now is its basic core of 2,300,000 blocks of limestone and granite. There have been many different theories to explain how the pyramid was built. Most accepted building ideas are based on the idea of moving huge stones from a quarry and dragging and lifting them into place. Archaeologists found that the Pyramids of Giza were not built by slaves, but workers who were paid for working. Their graves were found near the pyramid in 1990.[2]</p>
+
+
+
+<a href ="m.html"> click</a> 
+</body>
+</html>

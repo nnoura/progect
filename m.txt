@@ -1,0 +1,40 @@
+    <tr>
+        <td>3:00 PM</td>
+        
+        <td style="background-color: rgb(15, 10, 51);" rowspan="2">Electronics (online)</td>
+       
+    </tr>
+    <tr>
+        <td>2:00 PM</td>
+        <td style="background-color: rgb(20, 25, 8);" rowspan="3">Circuits</td>
+        <td style="background-color: rgb(21, 17, 75);" rowspan="3">Web lecture</td>
+        <td style="background-color: rgb(39, 28, 18);" rowspan="3">Lab</td>
+    </tr>
+    <tr>
+        <td>3:00 PM</td>
+        
+    </tr>
+    <tr>
+        <td>5:00 PM</td>
+        <td style="background-color: rgb(100, 50, 9);" rowspan="3">meeting</td>
+    </tr>
+    <tr>
+        <td>3:30 PM</td>
+        <td style="background-color: rgb(150, 90, 50);" rowspan="3">blank</td>
+        <td style="background-color: rgb(61, 13, 152);" rowspan="3">Math (section)</td>
+        <td style="background-color: rgb(235, 15, 25);" rowspan="3">Electronics (online)</td>
+    </tr>
+    <tr>
+        <td>3:30 PM</td>
+    </tr>
+    <tr>
+        <td>4:00 PM</td>
+    </tr>
+</table>
+
+    <p><a href="a.html">Main page</a> </p>
+
+
+    
+</body>
+</html>   
